@@ -1,4 +1,4 @@
-# Metric Coders Notebooks
+# Metric Coders Langchain Notebooks
 
 ## Description
 This repository contains Python notebooks and programs focused on Langchain.
