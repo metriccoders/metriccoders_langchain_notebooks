@@ -1,7 +1,7 @@
 # Metric Coders Langchain Notebooks
 
 ## Description
-This repository contains Python notebooks and programs focused on Langchain.
+This repository contains Python notebooks and programs focused on Langchain. This includes applications thorugh Retrieval Augmented Generation (RAG).
 
 
 ## Table of Contents
